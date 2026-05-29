@@ -17,7 +17,7 @@ Synthetic healthcare dataset with 15 columns including patient demographics, med
 
 ## Dashboard
 (https://public.tableau.com/views/HealthcarePatientOutcomesAnalysis/HealthcarePatientOutcomesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-![Dashboard Preview](healthcare-analysis/healthcare_analysis_dashboard.png)
+![Dashboard Preview](healthcare-analysis/healthcare_dashboard.png)
 
 ## Key Analysis
 - Patient distribution across 6 conditions: Arthritis, Asthma, 
